@@ -45,6 +45,15 @@ namespace SelectionStatementsConsoleUI
                 case "Java":
                     Console.WriteLine("C# is better than Java");
                     break;
+                case "Python":
+                    Console.WriteLine("Python is an excellent language");
+                    break;
+                case "Javascript":
+                    Console.WriteLine("That's a popular language");
+                    break;
+                case "HTML":
+                    Console.WriteLine("Good to know when building websites");
+                    break;
                 default:
                     Console.WriteLine("We learn to code the right way!");
                     break;
